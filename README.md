@@ -8,4 +8,5 @@
 - Link sản phẩm/demo (nếu có) : https://github.com/cvduynk-beep/duynk-demop2-t010
 
 ## Bài nộp
-File: Day25_AI-Team-Lab_TeamAura.pdf
+- File chính thức: [Day25_AI-Team-Lab_TeamAura.pdf](Day25_AI-Team-Lab_TeamAura.pdf) (Tối đa đúng 4 trang theo yêu cầu)
+- Nhật ký quá trình làm việc Cá nhân → Nhóm: [INDIVIDUAL_CONTRIBUTIONS.md](INDIVIDUAL_CONTRIBUTIONS.md)
